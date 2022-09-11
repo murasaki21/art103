@@ -1,6 +1,6 @@
 body {
 
-color:#fa0;
+color:#c2c9ff;
 background-color: #051944;
 
 }
@@ -14,12 +14,12 @@ background-color: #051944;
   box-sizing: border-box; }
 
 a {
-  color: #c8b6ff;
+  color: #FFFFFF;
   text-decoration: none;
 }
 
 a:hover{
-  color:#FFFFFF;
+  color:#c8b6ff;
   /*text-decoration: underline;*/
 }
 .nav_pad{
