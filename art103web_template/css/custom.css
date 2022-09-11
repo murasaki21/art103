@@ -21,6 +21,7 @@ a {
 
 a:hover{
   color:#c8b6ff;
+  transition: .5s;
   /*text-decoration: underline;*/
 }
 .nav_pad{
